@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ControleK</string>
+    <string name="title_activity_main">ControleK</string>
+    <string name="package_name">com.controlek.app</string>
+    <string name="custom_url_scheme">com.controlek.app</string>
+</resources>
